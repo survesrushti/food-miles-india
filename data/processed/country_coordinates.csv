@@ -1,0 +1,229 @@
+﻿iso3,country,capital,latitude,longitude,source
+ABW,Aruba,Oranjestad,12.55,-70.1,CEPII geo_cepii
+AFG,Afghanistan,Kabul,34.51667,69.2,CEPII geo_cepii
+AGO,Angola,Luanda,-8.833333,13.25,CEPII geo_cepii
+AIA,Anguilla,The Valley,18.21667,-63.06667,CEPII geo_cepii
+ALB,Albania,Tirana,41.33333,19.81667,CEPII geo_cepii
+AND,Andorra,Andorra la Vella,42.5,1.5,CEPII geo_cepii
+ANT,Netherland Antilles,Willemstad,12.1,-68.93333,CEPII geo_cepii
+ARE,United Arab Emirates,Abu Dhabi,24.46667,54.41667,CEPII geo_cepii
+ARG,Argentina,Buenos Aires,-34.66667,-58.5,CEPII geo_cepii
+ARM,Armenia,Yerevan,40.18333,44.5,CEPII geo_cepii
+ATF,French Southern Antartic territories,Dumont d'Urville (Terre Adélie),-66.66666,-140.0,CEPII geo_cepii
+ATG,Antigua and Barbuda,Saint John's,17.13333,-61.83333,CEPII geo_cepii
+AUS,Australia,Canberra,-35.3,149.133,CEPII geo_cepii
+AUT,Austria,Vienna,48.21667,16.36667,CEPII geo_cepii
+AZE,Azerbaijan,Baku (Baki),40.36666,49.88334,CEPII geo_cepii
+BDI,Burundi,Bujumbura,-3.366667,29.31667,CEPII geo_cepii
+BEL,Belgium and Luxembourg,Brussels,50.83333,4.35,CEPII geo_cepii
+BEN,Benin,Porto-Novo,6.5,2.783333,CEPII geo_cepii
+BFA,Burkina Faso,Ouagadougou,12.33333,-1.666667,CEPII geo_cepii
+BGD,Bangladesh,Dhaka,23.7,90.36667,CEPII geo_cepii
+BGR,Bulgaria,Sofia,42.66667,23.3,CEPII geo_cepii
+BHR,Bahrain,Manama,26.2,50.63334,CEPII geo_cepii
+BHS,Bahamas,Nassau,25.08333,-77.33334,CEPII geo_cepii
+BIH,Bosnia and Herzegovina,Sarajevo,43.86666,18.43333,CEPII geo_cepii
+BLR,Belarus,Minsk,53.85,27.5,CEPII geo_cepii
+BLZ,Belize,Belmopan,17.21667,-88.8,CEPII geo_cepii
+BMU,Bermuda,Hamilton,32.3,-64.8,CEPII geo_cepii
+BOL,Bolivia,Sucre,-19.083,-65.25,CEPII geo_cepii
+BRA,Brazil,Brasilia,-15.78,-47.91,CEPII geo_cepii
+BRB,Barbados,Bridgetown,13.1,-59.61666,CEPII geo_cepii
+BRN,Brunei Darussalam,Bandar Seri Begawan,4.933333,114.9667,CEPII geo_cepii
+BTN,Bhutan,Thimphu,27.53333,89.75,CEPII geo_cepii
+BWA,Botswana,Gaborone,-24.75,25.91667,CEPII geo_cepii
+CAF,Central African Republic,Bangui,4.383333,18.61667,CEPII geo_cepii
+CAN,Canada,Ottawa,45.42,-75.71,CEPII geo_cepii
+CCK,Cocos (Keeling) Islands,West Island,-12.5,96.83334,CEPII geo_cepii
+CHE,Switzerland,Bern,46.95,7.433333,CEPII geo_cepii
+CHL,Chile,Santiago,-33.5,-70.66666,CEPII geo_cepii
+CHN,China,Beijing,39.91667,116.4333,CEPII geo_cepii
+CIV,Côte d'Ivoire,Yamoussoukro,6.82,-5.28,CEPII geo_cepii
+CMR,Cameroon,Yaounde,3.85,11.51667,CEPII geo_cepii
+COG,Congo,Brazzaville,-4.233333,15.23333,CEPII geo_cepii
+COK,Cook Islands,Avarua,-21.2,-159.7667,CEPII geo_cepii
+COL,Colombia,Bogota,4.633333,-75.06667,CEPII geo_cepii
+COM,Comoros,Moroni,-11.66667,43.26667,CEPII geo_cepii
+CPV,Cape Verde,Praia,14.91667,-23.5,CEPII geo_cepii
+CRI,Costa Rica,San Jose,9.983334,-84.06667,CEPII geo_cepii
+CUB,Cuba,Havana,23.11667,-82.41666,CEPII geo_cepii
+CXR,Christmas Island,The Settlement,-10.41667,105.7167,CEPII geo_cepii
+CYM,Cayman Islands,George Town,19.3,-81.38333,CEPII geo_cepii
+CYP,Cyprus,Nicosia,35.15,33.35,CEPII geo_cepii
+CZE,Czech Republic,Prague,50.1,14.43333,CEPII geo_cepii
+DEU,Germany,Berlin,52.533,13.417,CEPII geo_cepii
+DJI,Djibouti,Djibouti,11.6,43.15,CEPII geo_cepii
+DMA,Dominica,Roseau,15.3,-61.38334,CEPII geo_cepii
+DNK,Denmark,Copenhagen,55.66667,12.58333,CEPII geo_cepii
+DOM,Dominican Republic,Santo Domingo,18.5,-69.78333,CEPII geo_cepii
+DZA,Algeria,Algiers,36.83333,3.0,CEPII geo_cepii
+ECU,Ecuador,Quito,-0.2333333,-78.5,CEPII geo_cepii
+EGY,Egypt,Cairo,30.05,31.25,CEPII geo_cepii
+ERI,Eritrea,Asmara,15.33333,38.88334,CEPII geo_cepii
+ESH,Western Sahara,none,27.16667,-13.18333,CEPII geo_cepii
+ESP,Spain,Madrid,40.41667,-3.716667,CEPII geo_cepii
+EST,Estonia,Tallinn,59.41667,24.75,CEPII geo_cepii
+ETH,Ethiopia,Addis Ababa,9.05,38.83333,CEPII geo_cepii
+FIN,Finland,Helsinki,60.13334,25.0,CEPII geo_cepii
+FJI,Fiji,Suva,-18.13333,178.4167,CEPII geo_cepii
+FLK,Falkland Islands,Stanley,-51.7,-57.85,CEPII geo_cepii
+FRA,France,Paris,48.86666,2.333333,CEPII geo_cepii
+FRO,Faroe Islands,Torshavn,62.01667,-6.766667,CEPII geo_cepii
+FSM,Micronesia (Federated States of),Palikir,6.916667,158.25,CEPII geo_cepii
+GAB,Gabon,Libreville,0.3833333,9.416667,CEPII geo_cepii
+GBR,United Kingdom,London,51.5,-0.1666667,CEPII geo_cepii
+GEO,Georgia,Tbilisi,41.71667,44.81667,CEPII geo_cepii
+GHA,Ghana,Accra,5.55,-0.25,CEPII geo_cepii
+GIB,Gibraltar,Gibraltar,36.13334,-5.35,CEPII geo_cepii
+GIN,Guinea,Conakry,9.516666,-15.71667,CEPII geo_cepii
+GLP,Guadeloupe,Basse-Terre,16.0,-61.73333,CEPII geo_cepii
+GMB,Gambia,Banjul,13.46667,-16.65,CEPII geo_cepii
+GNB,Guinea-Bissau,Bissau,11.86667,-15.65,CEPII geo_cepii
+GNQ,Equatorial Guinea,Malabo,3.75,8.8,CEPII geo_cepii
+GRC,Greece,Athens,38.0,23.73333,CEPII geo_cepii
+GRD,Grenada,Saint George's,12.06667,-61.73333,CEPII geo_cepii
+GRL,Greenland,Nuuk (Godthab),64.18333,-51.73333,CEPII geo_cepii
+GTM,Guatemala,Guatemala,14.63333,-90.51667,CEPII geo_cepii
+GUF,French Guiana,Cayenne,4.933333,-52.33333,CEPII geo_cepii
+GUY,Guyana,Georgetown,6.766667,-58.16667,CEPII geo_cepii
+HKG,Hong Kong,Victoria,22.26667,114.15,CEPII geo_cepii
+HND,Honduras,Tegucigalpa,14.08333,-87.23333,CEPII geo_cepii
+HRV,Croatia,Zagreb,45.8,15.96667,CEPII geo_cepii
+HTI,Haiti,Port-au-Prince,18.55,-72.33334,CEPII geo_cepii
+HUN,Hungary,Budapest,47.5,19.05,CEPII geo_cepii
+IDN,Indonesia,Jakarta,-6.133333,106.75,CEPII geo_cepii
+IND,India,New Delhi,28.61667,77.21667,CEPII geo_cepii
+IRL,Ireland,Dublin,53.33333,-6.25,CEPII geo_cepii
+IRN,Iran,Tehran,35.66667,51.43333,CEPII geo_cepii
+IRQ,Iraq,Baghdad,33.33333,44.43333,CEPII geo_cepii
+ISL,Iceland,Reykjavik,64.15,-21.96667,CEPII geo_cepii
+ISR,Israel,Tel Aviv,32.08333,34.76667,CEPII geo_cepii
+ITA,Italy,Rome,41.88334,12.5,CEPII geo_cepii
+JAM,Jamaica,Kingston,17.96667,-76.8,CEPII geo_cepii
+JOR,Jordan,Amman,31.95,35.93333,CEPII geo_cepii
+JPN,Japan,Tokyo,35.66667,139.75,CEPII geo_cepii
+KAZ,Kazakstan,Astana,51.17,71.47,CEPII geo_cepii
+KEN,Kenya,Nairobi,-1.283333,36.83333,CEPII geo_cepii
+KGZ,Kyrgyzstan,Bishkek,42.9,74.6,CEPII geo_cepii
+KHM,Cambodia,Phnom Penh,11.58333,104.9167,CEPII geo_cepii
+KIR,Kiribati,Tarawa (Bairiki),1.383333,173.15,CEPII geo_cepii
+KNA,Saint Kitts and Nevis,Basseterre,17.28333,-62.71667,CEPII geo_cepii
+KOR,Korea,Seoul,37.5,127.0,CEPII geo_cepii
+KWT,Kuwait,Kuwait,29.33333,48.0,CEPII geo_cepii
+LAO,Lao People's Democratic Republic,Vientiane,17.98333,102.6333,CEPII geo_cepii
+LBN,Lebanon,Beirut,33.86666,35.5,CEPII geo_cepii
+LBR,Liberia,Monrovia,6.333333,-10.76667,CEPII geo_cepii
+LBY,Libyan Arab Jamahiriya,Tripoli,32.73333,13.11667,CEPII geo_cepii
+LCA,Saint Lucia,Castries,14.01667,-60.98333,CEPII geo_cepii
+LKA,Sri Lanka,Colombo,6.916667,79.86667,CEPII geo_cepii
+LSO,Lesotho,Maseru,-29.31667,27.48333,CEPII geo_cepii
+LTU,Lithuania,Vilnius,54.68333,25.31667,CEPII geo_cepii
+LUX,Luxembourg,Luxembourg,49.6,6.15,CEPII geo_cepii
+LVA,Latvia,Riga,56.95,24.1,CEPII geo_cepii
+MAC,Macau (Aomen),Aomen,22.27,113.56,CEPII geo_cepii
+MAR,Morocco,Rabat,34.03333,-6.85,CEPII geo_cepii
+MDA,"Moldova, Rep.of",Chisinau,47.0,28.83333,CEPII geo_cepii
+MDG,Madagascar,Antananarivo,-18.86667,47.5,CEPII geo_cepii
+MDV,Maldives,Male,4.166667,73.46667,CEPII geo_cepii
+MEX,Mexico,Mexico (Distrito Federal),19.41667,-99.16666,CEPII geo_cepii
+MHL,Marshall Islands,Majuro,7.15,171.2,CEPII geo_cepii
+MKD,Macedonia (the former Yugoslav Rep. of),Skopje,42.0,21.46667,CEPII geo_cepii
+MLI,Mali,Bamako,12.66667,-7.983333,CEPII geo_cepii
+MLT,Malta,Valletta,35.9,14.53333,CEPII geo_cepii
+MMR,Burma,Rangoon,16.78333,96.16666,CEPII geo_cepii
+MNG,Mongolia,Ulaanbaatar,47.9,106.8667,CEPII geo_cepii
+MNP,Northern Mariana Islands,Saipan,15.2,145.75,CEPII geo_cepii
+MOZ,Mozambique,Maputo,-25.96667,32.58333,CEPII geo_cepii
+MRT,Mauritania,Nouakchott,18.15,-15.96667,CEPII geo_cepii
+MSR,Montserrat,Plymouth,16.7,-62.21667,CEPII geo_cepii
+MTQ,Martinique,Fort-de-France,14.6,-61.08333,CEPII geo_cepii
+MUS,Mauritius,Port Louis,-20.16667,57.5,CEPII geo_cepii
+MWI,Malawi,Lilongwe,-13.96667,33.81667,CEPII geo_cepii
+MYS,Malaysia,Kuala Lumpur,3.133333,101.7,CEPII geo_cepii
+NAM,Namibia,Windhoek,-22.56667,17.1,CEPII geo_cepii
+NCL,New Caledonia,Noumea,-22.26667,166.45,CEPII geo_cepii
+NER,Niger,Niamey,13.53333,2.083333,CEPII geo_cepii
+NFK,Norfolk Island,Kingston,-29.05,167.9667,CEPII geo_cepii
+NGA,Nigeria,Abuja,9.18,7.17,CEPII geo_cepii
+NIC,Nicaragua,Managua,12.1,-86.3,CEPII geo_cepii
+NIU,Niue,Alofi,-19.01667,-169.9167,CEPII geo_cepii
+NLD,Netherlands,Amsterdam,52.35,4.9,CEPII geo_cepii
+NOR,Norway,Oslo,59.91667,10.75,CEPII geo_cepii
+NPL,Nepal,Kathmandu,27.7,85.31667,CEPII geo_cepii
+NRU,Nauru,Yaren,-0.5333334,166.9167,CEPII geo_cepii
+NZL,New Zealand,Wellington,-44.28333,174.7833,CEPII geo_cepii
+OMN,Oman,Muscat,23.61667,58.63334,CEPII geo_cepii
+PAK,Pakistan,Islamabad,33.66667,73.13333,CEPII geo_cepii
+PSE,Palestine,Gaza,31.53,34.44,CEPII geo_cepii
+PAN,Panama,Panama,8.95,-79.5,CEPII geo_cepii
+PCN,Pitcairn,Adamstown,-25.06667,-130.0833,CEPII geo_cepii
+PER,Peru,Lima,-12.1,-77.05,CEPII geo_cepii
+PHL,Philippines,Manila,14.61667,120.9667,CEPII geo_cepii
+PLW,Palau,Koror,7.333333,134.4833,CEPII geo_cepii
+PNG,Papua New Guinea,Port Moresby,-9.5,147.1167,CEPII geo_cepii
+POL,Poland,Warsaw,52.25,21.0,CEPII geo_cepii
+PRI,Puerto Rico,San Juan,18.44,-66.13,CEPII geo_cepii
+PRK,"Korea, Dem. People's Rep. of",Pyongyang,39.0,125.7833,CEPII geo_cepii
+PRT,Portugal,Lisbon,38.73333,-9.133333,CEPII geo_cepii
+PRY,Paraguay,Asuncion,-25.25,-57.66667,CEPII geo_cepii
+PYF,French Polynesia,Papeete,-17.53333,-149.5667,CEPII geo_cepii
+QAT,Qatar,Doha,25.25,51.53333,CEPII geo_cepii
+REU,Reunion,Saint-Denis,-20.86667,55.46667,CEPII geo_cepii
+ROU,Romania,Bucharest,44.41667,26.11667,CEPII geo_cepii
+RUS,Russian Federation,Moscow,55.75,37.7,CEPII geo_cepii
+RWA,Rwanda,Kigali,-1.933333,30.06667,CEPII geo_cepii
+SAU,Saudi Arabia,Riyadh,24.65,46.76667,CEPII geo_cepii
+SDN,Sudan,Khartoum,15.55,32.53333,CEPII geo_cepii
+SEN,Senegal,Dakar,14.63333,-17.45,CEPII geo_cepii
+SGP,Singapore,Singapore,1.283333,103.85,CEPII geo_cepii
+SHN,Saint Helena,Jamestown,-15.91667,-5.7,CEPII geo_cepii
+SLB,Solomon Islands,Honiara,-9.466666,159.95,CEPII geo_cepii
+SLE,Sierra Leone,Freetown,8.5,-13.28333,CEPII geo_cepii
+SLV,El Salvador,San Salvador,13.66667,-89.16666,CEPII geo_cepii
+SMR,San Marino,Serravalle,43.95,12.49,CEPII geo_cepii
+SOM,Somalia,Mogadishu,2.033333,45.35,CEPII geo_cepii
+SPM,St. Pierre and Miquelon,Saint Pierre,46.66667,-56.16667,CEPII geo_cepii
+STP,Sao Tome and Principe,Sao Tome,0.2,6.716667,CEPII geo_cepii
+SUR,Suriname,Paramaribo,5.866667,-55.23333,CEPII geo_cepii
+SVK,Slovakia,Bratislava,48.16667,17.16667,CEPII geo_cepii
+SVN,Slovenia,Ljubljana,46.06667,14.5,CEPII geo_cepii
+SWE,Sweden,Stockholm,59.33333,18.08333,CEPII geo_cepii
+SWZ,Swaziland,Mbabane,-26.33333,31.13333,CEPII geo_cepii
+SYC,Seychelles,Victoria,-4.633333,55.46667,CEPII geo_cepii
+SYR,Syrian Arab Republic,Damascus,33.5,36.31667,CEPII geo_cepii
+TCA,Turks and Caicos Islands,Grand Turk (Cockburn Town),21.46667,-71.13333,CEPII geo_cepii
+TCD,Chad,N'Djamena,12.16667,14.98333,CEPII geo_cepii
+TGO,Togo,Lome,6.166667,1.35,CEPII geo_cepii
+THA,Thailand,Bangkok,13.73333,100.5,CEPII geo_cepii
+TJK,Tajikistan,Dushanbe,38.63334,68.85,CEPII geo_cepii
+TKL,Tokelau,N.A.,-9.0,-172.0,CEPII geo_cepii
+TKM,Turkmenistan,Ashgabat,37.95,58.38334,CEPII geo_cepii
+TLS,East Timor,Dili,-8.57,125.58,CEPII geo_cepii
+TON,Tonga,Nuku'alofa,-21.15,-175.2333,CEPII geo_cepii
+TTO,Trinidad and Tobago,Port-of-Spain,10.63333,-61.51667,CEPII geo_cepii
+TUN,Tunisia,Tunis,36.83333,10.21667,CEPII geo_cepii
+TUR,Turkey,Ankara,39.93,32.85,CEPII geo_cepii
+TUV,Tuvalu,Fongafale,-8.5,179.2,CEPII geo_cepii
+TWN,Taiwan,Taipei,25.08333,121.5333,CEPII geo_cepii
+TZA,"Tanzania, United Rep. of ",Dar es Salaam,-6.17,35.74,CEPII geo_cepii
+UGA,Uganda,Kampala,0.3333333,32.58333,CEPII geo_cepii
+UKR,Ukraine,Kiev (Kyyiv),50.41667,30.5,CEPII geo_cepii
+URY,Uruguay,Montevideo,-34.91667,-56.16667,CEPII geo_cepii
+USA,United States of America,"Washington, DC",38.867,-77.0,CEPII geo_cepii
+UZB,Uzbekistan,Tashkent (Toshkent),41.26667,69.21667,CEPII geo_cepii
+VCT,Saint Vincent and the Grenadines,Kingstown,13.2,-61.23333,CEPII geo_cepii
+VEN,Venezuela,Caracas,10.58333,-66.93333,CEPII geo_cepii
+VGB,British Virgin Islands,Road Town,18.45,-64.61667,CEPII geo_cepii
+VNM,Viet Nam,Hanoi,21.01667,105.8667,CEPII geo_cepii
+VUT,Vanuatu,Port-Vila,-17.75,168.3,CEPII geo_cepii
+WLF,Wallis and Futuna,Mata-Utu (on Ile Uvea),-13.3,-176.2,CEPII geo_cepii
+WSM,Samoa,Apia,-13.8,171.75,CEPII geo_cepii
+YEM,Yemen,Sanaa,15.4,44.23333,CEPII geo_cepii
+YUG,Serbia and Montenegro,Belgrade,44.83333,20.5,CEPII geo_cepii
+ZAF,South Africa,Pretoria,-25.73,28.22,CEPII geo_cepii
+COD,Congo (Democratic Republic of the),Kinshasa,-4.3,15.3,CEPII geo_cepii
+ZMB,Zambia,Lusaka,-15.46667,28.26667,CEPII geo_cepii
+ZWE,Zimbabwe,Harare,-17.83333,31.05,CEPII geo_cepii
+SRB,Serbia,Belgrade,44.79,20.45,Manual coordinates
+MNE,Montenegro,Podgorica,42.44,19.26,Manual coordinates
+SSD,South Sudan,Juba,4.85,31.58,Manual coordinates

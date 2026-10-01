@@ -1,0 +1,41 @@
+{
+    "project": "Food Miles: Tracking the Journey of Food",
+    "analysis_period": "2000-2024",
+    "foods_analysed": 20,
+    "minimum_import_tonnes_for_rankings": 10000,
+    "foods_excluded_from_rankings": [
+        "Bananas",
+        "Hazelnuts, in shell",
+        "Mangoes, guavas and mangosteens",
+        "Rice",
+        "Tomatoes"
+    ],
+    "highest_weighted_import_distance": {
+        "food": "Almonds, in shell",
+        "distance_km": 11612.49
+    },
+    "highest_total_import_food_miles": {
+        "food": "Palm oil",
+        "food_miles_billion_tonne_km": 727.811
+    },
+    "most_source_countries": {
+        "food": "Cashew nuts, in shell",
+        "countries": 92
+    },
+    "highest_average_import_dependency": {
+        "food": "Almonds, in shell",
+        "percentage": 93.85
+    },
+    "palm_oil_effect": {
+        "share_first_year_pct": 80.3,
+        "share_last_year_pct": 46.6,
+        "total_excl_palm_first": 3.264,
+        "total_excl_palm_last": 44.307
+    },
+    "yearly_food_miles": {
+        "first_year": 2000,
+        "first_year_billion_tonne_km": 16.593,
+        "last_year": 2024,
+        "last_year_billion_tonne_km": 82.924
+    }
+}

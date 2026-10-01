@@ -1,0 +1,45 @@
+{
+    "project_title": "Food Miles: Tracking the Journey of Food",
+    "analysis_period": {
+        "start_year": 2000,
+        "end_year": 2024
+    },
+    "total_foods": 20,
+    "foods": [
+        "Almonds, in shell",
+        "Apples",
+        "Bananas",
+        "Cashew nuts, in shell",
+        "Chick peas, dry",
+        "Coffee, green",
+        "Grapes",
+        "Hazelnuts, in shell",
+        "Kiwi fruit",
+        "Lentils, dry",
+        "Maize (corn)",
+        "Mangoes, guavas and mangosteens",
+        "Palm oil",
+        "Potatoes",
+        "Refined sugar",
+        "Rice",
+        "Soya beans",
+        "Tea leaves",
+        "Tomatoes",
+        "Wheat"
+    ],
+    "trade_partners": 190,
+    "low_volume_threshold_tonnes": 10000,
+    "low_volume_foods": [
+        "Bananas",
+        "Hazelnuts, in shell",
+        "Mangoes, guavas and mangosteens",
+        "Rice",
+        "Tomatoes"
+    ],
+    "units": {
+        "distance": "km",
+        "quantity": "tonnes",
+        "food_miles": "billion tonne-km"
+    },
+    "description": "Dashboard data prepared from cleaned trade, production, distance and research analysis datasets."
+}
