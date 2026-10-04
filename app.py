@@ -796,6 +796,35 @@ with dep_left:
             </div>
             """
         )
+        if 0 <= float(dependency_value) <= 100:
+            fig_dep = go.Figure(
+                go.Pie(
+                    labels=["Imports", "Domestic production (net of exports)"],
+                    values=[float(dependency_value), 100 - float(dependency_value)],
+                    hole=0.68,
+                    sort=False,
+                    direction="clockwise",
+                    marker=dict(colors=[MINT, CYAN], line=dict(color="#0a0f14", width=3)),
+                    textinfo="none",
+                    hovertemplate="%{label}: %{value:.2f}%<extra></extra>",
+                )
+            )
+            style_fig(fig_dep, height=300)
+            fig_dep.update_layout(
+                showlegend=True,
+                legend=dict(orientation="h", y=-0.05, x=0.5, xanchor="center"),
+                annotations=[dict(
+                    text=f"{dependency_value:.1f}%<br>from imports",
+                    x=0.5, y=0.5, showarrow=False,
+                    font=dict(size=16, color=TEXT),
+                )],
+            )
+            show_chart(fig_dep, key="chart_dependency_donut")
+            st.caption("Imports and domestic production (net of exports) together make up "
+                       "100% of domestic supply.")
+        else:
+            st.caption("Exports exceed production for this food, so supply cannot be "
+                       "split into a simple share. The donut is not shown.")
     else:
         render(kpi("Import dependency", "N/A", "not calculated for this food", "coral"))
 
@@ -810,6 +839,52 @@ with dep_right:
         "India's production is missing in the data, and it is not calculated for refined "
         "sugar, because production data covers sugar cane."
     )
+
+    if pd.notna(dependency_value) and 0 <= float(dependency_value) <= 100:
+        dep_pct = float(dependency_value)
+
+        if dep_pct >= 70:
+            insight_label = "HIGH IMPORT DEPENDENCY"
+            insight_text = "India relies heavily on imports for this food's domestic supply."
+            insight_pill = "coral"
+        elif dep_pct >= 30:
+            insight_label = "MODERATE IMPORT DEPENDENCY"
+            insight_text = "Imports make up a meaningful share of this food's domestic supply."
+            insight_pill = "cyan"
+        else:
+            insight_label = "LOW IMPORT DEPENDENCY"
+            insight_text = "Most of this food's domestic supply comes from domestic production."
+            insight_pill = "mint"
+
+        render(
+            f"""
+            <div class="kpi">
+            <div class="eyebrow">Supply Insight</div>
+            <div style="margin:.55rem 0 .45rem;">
+            <span class="pill {insight_pill}">{insight_label}</span>
+            </div>
+            <div class="kpi-sub">{insight_text}</div>
+
+            <div style="display:flex;gap:2.4rem;margin-top:.85rem;">
+
+            <div>
+            <div class="kpi-label">Import share</div>
+            <div class="kpi-value small" style="color:var(--mint);">
+            {dep_pct:.2f}%
+            </div>
+            </div>
+
+            <div>
+            <div class="kpi-label">Domestic share</div>
+            <div class="kpi-value small" style="color:var(--cyan);">
+            {100 - dep_pct:.2f}%
+            </div>
+            </div>
+
+            </div>
+            </div>
+            """
+        )
 
 if pd.isna(dependency_value) and selected_food != "Refined sugar":
     render(
